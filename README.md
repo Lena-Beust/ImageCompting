@@ -1,4 +1,4 @@
-_INSA RENNES - Computer Science - Semester 8_
+_INSA RENNES - Computer Science - 2025_
 # Images and videos computing : Project
 
 ## Objectives
