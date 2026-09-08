@@ -1,0 +1,3 @@
+/home/lena/Documents/4A/S7/TIV/Projet/projet_tiv/project/CMakeFiles/Projet_OpenCV_CMake.dir
+/home/lena/Documents/4A/S7/TIV/Projet/projet_tiv/project/CMakeFiles/edit_cache.dir
+/home/lena/Documents/4A/S7/TIV/Projet/projet_tiv/project/CMakeFiles/rebuild_cache.dir

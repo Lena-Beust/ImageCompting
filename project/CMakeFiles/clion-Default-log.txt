@@ -1,0 +1,4 @@
+Cannot generate into /home/lena/Documents/4A/S7/TIV/Projet/projet_tiv/project
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
